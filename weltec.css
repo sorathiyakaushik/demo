@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.frist{
+    background-color: blue;
+    color: white;
+    font-size: 23px;
+}
+p{
+    display: inline-block;
+    padding: 10px;
+   
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+}
+div.logo{
+    display: flex;
+    justify-content: space-between;
+    padding: 35px;
+}
+img.seaction1{
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+h1.seaction2{
+    position: absolute;
+    top: 50%;
+    font-size: 60px;
+    margin-left: 54%;
+}
+span{
+    color: blue;
+}
